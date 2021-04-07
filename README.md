@@ -1,5 +1,5 @@
 # rain CA
-rain's Containerized Application can be run on any device and have multiple advancements.
+rain's Containerized Applications can be run on any device and have multiple advancements.
 
 ## What can they do?
 
