@@ -1,3 +1,5 @@
+# PROJECT STILL IN PLANNING-PHASE
+
 # rain CA
 rain's Containerized Applications can be run on any device and have multiple advancements.
 
