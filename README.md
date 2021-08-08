@@ -4,7 +4,7 @@
 rain's Containerized Applications can be run on any device and have multiple advancements.
 
 ## What can they do?
-- they are written in Ruby
+- they are written in Rednik
 - they are containerized but still run native
 - they are layered
 
